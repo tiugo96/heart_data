@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 # Note on OOP
 
-An object-oriented programming (OOP) section is incorporated at the end of the script. This section is just to play around and involves aspects such as: 
+An object-oriented programming (OOP) section is incorporated at the end of the heart_data.ipynb script. This section is just to play around and involves aspects such as: 
 * Creating classes and writing functions (class methods)
 * Importing custom classes into the main script
 
