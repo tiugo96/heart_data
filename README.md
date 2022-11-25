@@ -1,3 +1,5 @@
-# heart_data
+# Purpose of this Repo
+will add more info later
 
-Will add more info later
+# Python environment setup
+
