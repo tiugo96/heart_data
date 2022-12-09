@@ -4,3 +4,4 @@ scikit-learn
 asttokens
 backcall
 debugpy>=1.0
+matplotlib
